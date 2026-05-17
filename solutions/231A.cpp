@@ -3,11 +3,11 @@
 #include <iostream>
 using namespace std;
 
-int n, p, y, t;
-cin >> n;
-int k;
-
 int main(){
+    int n, p, y, t;
+    cin >> n;
+    int k;
+
     for(int i = 1; i <= 3; i++){
         cin >> p >> y >> t;
 
