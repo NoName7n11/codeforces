@@ -8,8 +8,10 @@ int main(){
     cin >> k >> n >> w;
 
     for(int i=1; i<=w; i++){
-        //x = 3 * i;
-        count = count + 3*i;
+        count = count + k*i;
     }
-    cout << count-n;
+    if(count-n<0){
+        cout << 0;
+    }
+    else cout << count-n;
 }
