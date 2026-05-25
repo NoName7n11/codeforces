@@ -9,7 +9,7 @@ int main(){
     cin >> s;
 
     for(int i=0; i < s.length(); i++){
-        if(isupper(s[i]) == true){
+        if(isupper(s[i])){
             j++;
         }
         else k++;
