@@ -1,22 +1,32 @@
 // Twins
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main(){
-    int n;
+    int n, t_1=0, t1_bank=0, count=0;
+    long long sum=0;
     cin >> n;
-    int arr[n];
-    //int size = sizeof(arr[n])/sizeof(arr[0]);
+    int j = n-1;
+    vector<int> v(n);
 
     for(int i=0;i<n;i++){
-        cin >> arr[i];
+        cin >> v[i];
+    }
+    sort(v.begin(), v.end());
+    for(int i=0;i<n;i++){
+        sum += v[i];
     }
 
-    
-
-
-    //for(int j=0;j<n;j++){
-    //    cout << arr[j] << " ";
-    //}
+    for(int i=0; i<n; i++){
+        if(sum >= t1_bank && j>=0){
+           t1_bank = t1_bank + v[j];
+           t_1 = v[j];
+           sum = sum - t_1;
+           count++;
+           j--;
+        }
+        else break;
+    }
+    cout << count;
 }
