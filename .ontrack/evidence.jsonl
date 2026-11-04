@@ -18,3 +18,43 @@
 {"type": "file_extension", "name": "exe", "source": "ok.exe", "detected_at": "2026-10-07T14:51:10Z"}
 {"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-07T14:51:10Z"}
 {"type": "session", "id": "2026-10-07T14:51:10Z", "detected_at": "2026-10-07T14:51:10Z"}
+{"type": "file_extension", "name": "cpp", "source": "Actual_Solution_For_Learning/96A.cpp", "detected_at": "2026-10-07T17:23:02Z"}
+{"type": "file_extension", "name": "exe", "source": "Actual_Solution_For_Learning/96A.exe", "detected_at": "2026-10-07T17:23:02Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-07T17:23:02Z"}
+{"type": "session", "id": "2026-10-07T17:23:02Z", "detected_at": "2026-10-07T17:23:02Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-11T20:07:48Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-11T20:07:48Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-11T20:07:48Z"}
+{"type": "session", "id": "2026-10-11T20:07:48Z", "detected_at": "2026-10-11T20:07:48Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-11T20:45:48Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-11T20:45:48Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-11T20:45:48Z"}
+{"type": "session", "id": "2026-10-11T20:45:48Z", "detected_at": "2026-10-11T20:45:48Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-17T14:40:00Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-17T14:40:00Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-17T14:40:00Z"}
+{"type": "session", "id": "2026-10-17T14:40:00Z", "detected_at": "2026-10-17T14:40:00Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-17T14:40:01Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-17T14:40:01Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-17T14:40:01Z"}
+{"type": "session", "id": "2026-10-17T14:40:01Z", "detected_at": "2026-10-17T14:40:01Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-17T16:44:39Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-17T16:44:39Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-17T16:44:39Z"}
+{"type": "session", "id": "2026-10-17T16:44:39Z", "detected_at": "2026-10-17T16:44:39Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-26T14:36:38Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-26T14:36:38Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-26T14:36:38Z"}
+{"type": "session", "id": "2026-10-26T14:36:38Z", "detected_at": "2026-10-26T14:36:38Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-26T14:36:41Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-26T14:36:41Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-26T14:36:41Z"}
+{"type": "session", "id": "2026-10-26T14:36:41Z", "detected_at": "2026-10-26T14:36:41Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-10-26T16:26:50Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-10-26T16:26:50Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-10-26T16:26:50Z"}
+{"type": "session", "id": "2026-10-26T16:26:50Z", "detected_at": "2026-10-26T16:26:50Z"}
+{"type": "file_extension", "name": "cpp", "source": "trial.cpp", "detected_at": "2026-11-04T15:00:06Z"}
+{"type": "file_extension", "name": "exe", "source": "trial.exe", "detected_at": "2026-11-04T15:00:06Z"}
+{"type": "file_extension", "name": "md", "source": "learning.md", "detected_at": "2026-11-04T15:00:06Z"}
+{"type": "session", "id": "2026-11-04T15:00:06Z", "detected_at": "2026-11-04T15:00:06Z"}
